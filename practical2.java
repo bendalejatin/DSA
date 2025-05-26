@@ -1,5 +1,3 @@
-//Name: Jatin Bendale
-//Enrollment No: 202203103510038
 //Practical 2: Implementation of Array applications of Sparse Matrices.
 
 class practical2{
@@ -36,7 +34,6 @@ class practical2{
                 }
             }
         }
-        System.out.println("Enrollment No: 202203103510038");
         // display the sparse matrix
         System.out.println("Array Representation of Sparse Matrix:");
         System.out.println( "Row\tCol\tValue");
