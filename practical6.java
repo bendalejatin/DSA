@@ -1,5 +1,3 @@
-//Name: Jatin Bendale
-//Enrollment No: 202203103510038
 //Practical 6: Implementation of Binary Search Trees.
 
 class TreeNode {
