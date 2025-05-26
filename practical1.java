@@ -1,5 +1,3 @@
-//Name: Jatin Bendale
-//Enrollment No: 202203103510038
 //Practical 1: Implementation of Array operations - Insert, Delete, Search, Update, and Display. 
 
 public class practical1 {
@@ -52,8 +50,6 @@ public class practical1 {
     }
 
     public static void main(String[] args) {
-        System.out.println("Enrollment No: 202203103510038");
-
         practical1 arr = new practical1(5);
         System.out.println("Array created.");
         System.out.println("Insert the 10, 20, 30 in array: ");
