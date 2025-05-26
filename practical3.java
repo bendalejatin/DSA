@@ -1,5 +1,3 @@
-//Name: Jatin Bendale
-//Enrollment No: 202203103510038
 //Practical 3: Implement a program for stack that performs following operations using array. 
 //(a) PUSH (b) POP (c) PEEP (d) CHANGE (e) DISPLAY 
 
@@ -65,8 +63,7 @@ public class practical3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Stack stack = new Stack();
-        System.out.println("Enrollment No: 202203103510038");
-
+        
         while (true) {
             System.out.println("\nChoose operation:");
             System.out.println("(a) PUSH  (b) POP  (c) PEEP  (d) CHANGE  (e) DISPLAY  (f) EXIT");
