@@ -1,5 +1,3 @@
-//Name: Jatin Bendale
-//Enrollment No: 202203103510038
 //Practical 7a: Implementation of Sorting techniques. (a) Bubble Sort
 
 // implementation of Bubble Sort
