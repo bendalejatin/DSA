@@ -1,5 +1,3 @@
-//Name: Jatin Bendale
-//Enrollment No: 202203103510038
 //Practical 7c: Implementation of Sorting techniques. (c) Merge Sort
 
 // implementation of Merge Sort
