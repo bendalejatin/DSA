@@ -1,5 +1,3 @@
-//Name: Jatin Bendale
-//Enrollment No: 202203103510038
 //Practical 5: Write a menu driven program to implement following operations on the singly linked list.
 //              (a) Insert a node at the front of the linked list
 //              (b) Insert a node at the end of the linked list
