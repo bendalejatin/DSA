@@ -1,5 +1,3 @@
-//Name: Jatin Bendale
-//Enrollment No: 202203103510038
 //Practical 4: Write a program to implement Queue using arrays that performs following operations.(a) INSERT (b) DELETE (c) DISPLAY 
 
 public class practical4 {
