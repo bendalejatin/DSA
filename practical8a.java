@@ -1,5 +1,3 @@
-//Name: Jatin Bendale
-//Enrollment No: 202203103510038
 //Practical 8a: Implementation of Searching techniques. (a) Sequential Search
 
 // implementation of Sequential Search
