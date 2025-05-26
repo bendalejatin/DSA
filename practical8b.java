@@ -1,5 +1,3 @@
-//Name: Jatin Bendale
-//Enrollment No: 202203103510038
 //Practical 8b: Implementation of Searching techniques. (b) Binary Search
 
 // implementation of Binary Search
